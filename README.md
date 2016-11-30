@@ -9,3 +9,4 @@ Rishabh Madan ([madan96](https://github.com/madan96)) | rishabhmadan@gmail.com
 
 Himanshu Mishra ([orkohunter](https://github.com/orkohunter)) | himanshumishra@iitkgp.ac.in
 
+shubham chandra ([shubham-chandra](https://github.com/shubham-chandra) | shubham.nssc@gmail.com
