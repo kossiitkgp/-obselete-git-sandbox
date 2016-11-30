@@ -9,3 +9,4 @@ Rishabh Madan ([madan96](https://github.com/madan96)) | rishabhmadan@gmail.com
 
 Himanshu Mishra ([orkohunter](https://github.com/orkohunter)) | himanshumishra@iitkgp.ac.in
 
+Bhanu Prakash Reddy ([bhanu77prakash](https://github.com/bhanu77prakash)) | bhanuprakash.iitkgp@yahoo.com
