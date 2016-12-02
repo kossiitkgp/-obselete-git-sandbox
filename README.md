@@ -11,4 +11,5 @@ Himanshu Mishra ([orkohunter](https://github.com/orkohunter)) | himanshumishra@i
 
 Apoorva Kumar ([rava-dosa](https://github.com/rava-dosa)) | apoorvakumar169@gmail.com
 
-Sayan Sinha ([americast](https://github.com/americast)) | contact@sayansinha.tk
+
+
