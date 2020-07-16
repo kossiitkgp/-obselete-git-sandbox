@@ -24,3 +24,4 @@ Md Danish Imam([bc206](https://github.com/bc206)) | md.i.imam3495t@gmail.com
 
 Kaustubh Maloo ([kaus19](https://github.com/kaus19)) |  kaustubh.maloo@iitkgp.ac.in
 
+Bhanu Prakash Reddy ([bhanu77prakash](https://github.com/bhanu77prakash)) | bhanuprakash.iitkgp@yahoo.com
