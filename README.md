@@ -1,9 +1,15 @@
 # git-sandbox
 A Repository for learning and practicing git
 
+
 Add your Name, Github username and Email-ID
 
 Aditya Rathore ([arowdy98](https://github.com/arowdy98)) | arathore98@gmail.com
+
+
+
+
+
 
 Rishabh Madan ([madan96](https://github.com/madan96)) | rishabhmadan@gmail.com
 
@@ -24,3 +30,4 @@ Md Danish Imam([bc206](https://github.com/bc206)) | md.i.imam3495t@gmail.com
 
 Kaustubh Maloo ([kaus19](https://github.com/kaus19)) |  kaustubh.maloo@iitkgp.ac.in
 
+Burada Manideep ([BuradaManideep](https://github.com/BuradaManideep)) | b.manideep2056@gmail.com
