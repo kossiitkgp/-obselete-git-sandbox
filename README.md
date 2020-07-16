@@ -24,3 +24,6 @@ Md Danish Imam([bc206](https://github.com/bc206)) | md.i.imam3495t@gmail.com
 
 Kaustubh Maloo ([kaus19](https://github.com/kaus19)) |  kaustubh.maloo@iitkgp.ac.in
 
+MD DANISH IMAM ([bc206](https://github.com/bc206)) | md.i.imam3495t@gmail.com
+
+MEHUL KUMAR NIRALA([mul16](https://github.com/mul16)) | timonnpumba363@gmail.com
